@@ -2,7 +2,7 @@
 
 # ==========================================
 # SDGAMER - SKA HOSTING
-# Pterodactyl Installer for Fedora + Custom Branding
+# Pterodactyl Installer for Fedora
 # ==========================================
 
 # Colors
